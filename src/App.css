@@ -1,0 +1,28 @@
+
+.App {
+    display: flex;
+    background-image: url(https://img.freepik.com/free-vector/school-themed-background-template_1308-26300.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .form-container {
+    max-width: 500px;
+    padding: 2rem;
+    background-color:antiquewhite;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: red;
+    text-align: center;
+    justify-content: center;
+  }
+  
+  
